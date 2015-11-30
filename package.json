@@ -1,0 +1,19 @@
+{
+  "name": "50onzu-random",
+  "version": "0.1.0",
+  "description": "50onzu-random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jo32/50tones.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/jo32/posibilities-of-arraybuffer-examples#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
